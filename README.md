@@ -1,6 +1,6 @@
-# Exercícios API com PHP e Laravel
+# Imobiliaria API com PHP e Laravel
 
-Este projeto contém uma série de exercícios práticos para trabalhar com API e retorno dos dados no formato JSON usando a linguagem PHP e o framework Laravel.
+Este projeto é focado em uma imobiliaria que ira utilizar as linguagens de programação API e retorno dos dados no formato JSON usando a linguagem PHP e o framework Laravel.
 
 ## Requisitos
 
