@@ -59,42 +59,6 @@ Este é apenas um modelo básico de README.md, você pode adaptar e melhorar con
 ## funcionalidades
 
 * Cadastro de [Clientes](clientes.md)
-## Necessário Para Cadastro do Cliente
-
-* NOME COMPLETO
-* CELULAR
-* DATA DE NACIMENTO
-* CPF 
-* CEP 
-* ENDEREÇO 
-* BAIRRO
-
-## Necessário Para Cadastro do Funcionario
-
-* NOME COMPLETO
-* CELULAR
-* DATA DE NACIMENTO
-* CPF 
-* CEP 
-* ENDEREÇO 
-* BAIRRO
-
-## Necessário Para Cadastro da Equipe Tecnica
-
-* NOME COMPLETO
-* CELULAR
-* DATA DE NACIMENTO
-* CPF 
-* CEP 
-* ENDEREÇO 
-* BAIRRO
-
-## Necessário Para Cadastro do Imóvel
-
-* NOME IMÓVEL
-* METROS
-* QUARTOS
-* COMODOS
-* CEP 
-* ENDEREÇO 
-* BAIRRO
+* Cadastro de [Funcionarios](funcionarios.md)
+* Cadastro de [Equipe tecnica](equipe.md)
+* Cadastro de [imóveis](imovel.md)
