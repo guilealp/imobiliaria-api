@@ -1,4 +1,5 @@
 <img src="/resources/css/Captura de Tela (3).png">
+
 # Imobiliaria API com PHP e Laravel
 
 Este projeto é focado em uma imobiliaria que ira utilizar as linguagens de programação API e retorno dos dados no formato JSON usando a linguagem PHP e o framework Laravel.
