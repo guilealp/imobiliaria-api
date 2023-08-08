@@ -38,7 +38,7 @@ code .
 ```
 # insominia
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=exerc%C3%ADcios%20api%20&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fguilealp%2Fexercicios-api%2Fmain%2FInsomnia.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=imoniliaria%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fguilealp%2Fimobiliaria-api%2Fmain%2FINSOMINIA.JSON%3Ftoken%3DGHSAT0AAAAAACGBYJJ3LSPJ6SG2Q47VZ5UGZGSEVWQ)
 
 ## Licença
 
