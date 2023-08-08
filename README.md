@@ -1,7 +1,7 @@
 # Imobiliaria API com PHP e Laravel
 
 Este projeto é focado em uma imobiliaria que ira utilizar as linguagens de programação API e retorno dos dados no formato JSON usando a linguagem PHP e o framework Laravel.
-Neste projeto ira conter o principais arquivos da imobiliaria LA BELLA CASA como os programas de login e cadastro
+Neste projeto ira conter o principais arquivos da imobiliaria LA BELLA CASA como os programas de login e cadastro.
 
 ## Requisitos
 
