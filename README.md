@@ -53,7 +53,7 @@ Em caso de dúvidas, sugestões ou problemas, sinta-se à vontade para entrar em
 
 Este é apenas um modelo básico de README.md, você pode adaptar e melhorar conforme suas necessidades específicas de projeto. Certifique-se de incluir informações importantes sobre como configurar, executar e testar os exercícios, bem como qualquer outra documentação relevante para tornar o repositório mais amigável e útil para outros desenvolvedores.
 
-## necessário Para Cadastro do Cliente
+## Necessário Para Cadastro do Cliente
 
 * NOME COMPLETO
 * CELULAR
@@ -63,7 +63,7 @@ Este é apenas um modelo básico de README.md, você pode adaptar e melhorar con
 * ENDEREÇO 
 * BAIRRO
 
-## necessário Para Cadastro do Funcionario
+## Necessário Para Cadastro do Funcionario
 
 * NOME COMPLETO
 * CELULAR
@@ -73,7 +73,7 @@ Este é apenas um modelo básico de README.md, você pode adaptar e melhorar con
 * ENDEREÇO 
 * BAIRRO
 
-## necessário Para Cadastro da Equipe Tecnica
+## Necessário Para Cadastro da Equipe Tecnica
 
 * NOME COMPLETO
 * CELULAR
@@ -83,7 +83,7 @@ Este é apenas um modelo básico de README.md, você pode adaptar e melhorar con
 * ENDEREÇO 
 * BAIRRO
 
-## necessário Para Cadastro do Imóvel
+## Necessário Para Cadastro do Imóvel
 
 * NOME IMÓVEL
 * METROS
