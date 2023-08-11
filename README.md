@@ -59,6 +59,6 @@ Este é apenas um modelo básico de README.md, você pode adaptar e melhorar con
 ## funcionalidades
 
 * Cadastro de [Clientes](clientes.md)
-* Cadastro de [Funcionarios](funcionarios.md)
-* Cadastro de [Equipe tecnica](equipe.md)
+* Cadastro de [Funcionarios](funcionario.md)
+* Cadastro de [Equipe tecnica](Equipe.md)
 * Cadastro de [imóveis](imovel.md)
