@@ -40,7 +40,7 @@ code .
 ```
 # insominia
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=imoniliaria%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fguilealp%2Fimobiliaria-api%2Fmain%2FINSOMINIA.JSON%3Ftoken%3DGHSAT0AAAAAACGBYJJ3LSPJ6SG2Q47VZ5UGZGSEVWQ)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=imobiliaria&uri=http%3A%2F%2F127.0.0.1%3A8000%2Fapi%2Fsalvar)
 
 ## Licença
 
