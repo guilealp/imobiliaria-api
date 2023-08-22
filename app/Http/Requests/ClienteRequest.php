@@ -13,7 +13,7 @@ class ClienteRequest extends FormRequest
      */
     public function authorize(): bool
     {
-        return false;
+        return true;
     }
 
     /**
@@ -25,10 +25,10 @@ class ClienteRequest extends FormRequest
     {return [
          
         'nome' => 'required|max:80|min:5',
-        'cpf'=> 'required|max:11|min:11|unique:usuarios,cpf',
+        'cpf'=> 'required|max:11|min:11|unique:clientes,cpf',
         'celular' => 'required|max:15|min:10',
-        'email'=> 'required|email|unique:usuarios,email',
-        'data de nacimento'=>'required|max:8|min:8',
+        'email'=> 'required|email|unique:clientes,email',
+        'nacimento'=>'required|max:10|min:10',
         'cep' =>'required|max:8|min:8',
         'endereço'=> 'required',
         'bairro'=> 'required',
@@ -59,9 +59,9 @@ public function messages()
         'email.required' => 'E-mail obrigatorio',
         'email.email' => 'formato de email invalido',
         'email.unique' => 'Email ja cadastrado no sistem',
-        'data de nacimento.required' => 'Data de nacimento obrigatorio',
-        'data de nacimento.max' => 'O campo data deve conter no maximo 8 caracteres',
-        'data de nacimento.min' => 'O campo data deve conter no minimo 8 caracteres',
+        'nacimento.required' => 'Data de nacimento obrigatorio',
+        'nacimento.max' => 'O campo data deve conter no maximo 10 caracteres',
+        'nacimento.min' => 'O campo data deve conter no minimo 10 caracteres',
         'cep.required' => 'cep obrigatorio',
         'cep.max' => 'O campo cep deve conter no maximo 8 caracteres',
         'cep.min' => 'O campo cep deve conter no minimo 8 caracteres',

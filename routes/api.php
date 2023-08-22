@@ -15,4 +15,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-route::post('store',[ClienteController::class,'store']);
+route::post('salvar',[ClienteController::class,'salvar']);

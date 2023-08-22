@@ -14,7 +14,7 @@ class Cliente extends Model
         'cpf',
         'celular',
         'email',
-        'data de nacimento',
+        'nacimento',
         'cep',
         'endereço',
         'bairro',
