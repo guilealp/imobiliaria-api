@@ -16,3 +16,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 route::post('salvar',[ClienteController::class,'salvar']);
+
+route::get('find/{id}',[ClienteController::class, 'pesquisarPorId']);
